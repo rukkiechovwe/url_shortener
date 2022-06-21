@@ -35,11 +35,6 @@ section > .img > img {
 h1 {
   font-size: 2.3rem;
   line-height: 1.2;
-  color: var(--very-dark-violet);
-}
-p {
-  color: var(--grayish-violet);
-  margin-top: 10px;
 }
 button {
   margin-top: 2rem;
@@ -68,8 +63,6 @@ button {
   }
   h1 {
     font-size: 4rem;
-    line-height: 1.2;
-    color: var(--very-dark-violet);
   }
   p {
     max-width: 70%;

@@ -1,3 +1,6 @@
 <template>
-  <p>hjhh</p>
+  <div></div>
+  <div></div>
+  <div></div>
+  <div></div>
 </template>

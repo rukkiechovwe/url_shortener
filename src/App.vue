@@ -1,9 +1,10 @@
 <script setup lang="ts">
 import ShortenLink from "./components/ShortenLink.vue";
 import HeroSection from "./components/HeroSection.vue";
-import MoreInfo from "./components/MoreInfo.vue";
+import AdvancedStatistics from "./components/AdvancedStatistics.vue";
 import BoostSection from "./components/BoostSection.vue";
 import NavBar from "./components/NavBar.vue";
+import FooterSection from "./components/FooterSection.vue";
 </script>
 
 <template>
@@ -11,8 +12,9 @@ import NavBar from "./components/NavBar.vue";
     <NavBar />
     <HeroSection />
     <ShortenLink />
-    <MoreInfo />
+    <AdvancedStatistics />
     <BoostSection />
+    <FooterSection />
   </main>
 </template>
 

@@ -16,7 +16,6 @@ section {
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
-  width: 100%;
   padding: 2rem;
 }
 
